@@ -1,0 +1,10 @@
+print("Start 
+print "Input & Calculate Area of Rectangle"
+print "Input Length = "
+input Length
+print "Input Width = "
+input Width
+Area = Length * Width
+print "Area of Rectangle = "
+Print Area
+End")
